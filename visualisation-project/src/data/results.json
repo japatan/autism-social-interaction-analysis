@@ -1,0 +1,20 @@
+{
+  "meanScores": [
+    { "label": "Indoor Pre", "trained": 1.2, "untrained": 1.1 },
+    { "label": "Indoor Post", "trained": 2.4, "untrained": 1.4 },
+    { "label": "Outdoor Pre", "trained": 1.8, "untrained": 1.7 },
+    { "label": "Outdoor Post", "trained": 2.8, "untrained": 1.9 }
+  ],
+  "sessionScores": [
+    { "session": 1, "trained": 1.1, "untrained": 1.0 },
+    { "session": 2, "trained": 1.4, "untrained": 1.1 },
+    { "session": 3, "trained": 1.8, "untrained": 1.2 },
+    { "session": 4, "trained": 2.3, "untrained": 1.3 },
+    { "session": 5, "trained": 2.5, "untrained": 1.4 }
+  ],
+  "weightSensitivity": [
+    { "variant": "Base", "trained": 2.4, "untrained": 1.4 },
+    { "variant": "Low Penalty", "trained": 2.6, "untrained": 1.5 },
+    { "variant": "High Penalty", "trained": 2.2, "untrained": 1.3 }
+  ]
+}
