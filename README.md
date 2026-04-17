@@ -130,6 +130,7 @@ This project uses the research above as the conceptual basis for understanding:
 - The scatter plot represents an example participant, not the full dataset
 - Box plots and bar charts summarise across all available data
 - The heatmap reflects model behaviour under varied weights rather than raw observations
+- This project was built as part of UQ - COSC3000 (Data Visualization and Computer Graphics) Course. AI tools were used to assist with Recharts — a library I hadn't used prior to this project.
 
 ---
 
